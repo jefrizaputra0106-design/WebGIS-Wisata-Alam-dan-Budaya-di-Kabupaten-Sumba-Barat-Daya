@@ -1,0 +1,1 @@
+var json_IbuKotaSBD_7 = {"type":"FeatureCollection","name":"IbuKotaSBD_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Nama":"Alun-Alun Kota Tambolaka","Informasi":null,"Gambar":null},"geometry":{"type":"Point","coordinates":[119.246300088111553,-9.424892355140928]}}]}
